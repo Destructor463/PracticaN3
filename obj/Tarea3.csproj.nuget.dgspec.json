@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Escritorio\\PracticaN3\\Tarea3.csproj": {}
+    "D:\\Escritorio\\PracticaN3-main\\PracticaN3\\Tarea3.csproj": {}
   },
   "projects": {
-    "D:\\Escritorio\\PracticaN3\\Tarea3.csproj": {
+    "D:\\Escritorio\\PracticaN3-main\\PracticaN3\\Tarea3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Escritorio\\PracticaN3\\Tarea3.csproj",
+        "projectUniqueName": "D:\\Escritorio\\PracticaN3-main\\PracticaN3\\Tarea3.csproj",
         "projectName": "Tarea3",
-        "projectPath": "D:\\Escritorio\\PracticaN3\\Tarea3.csproj",
+        "projectPath": "D:\\Escritorio\\PracticaN3-main\\PracticaN3\\Tarea3.csproj",
         "packagesPath": "C:\\Users\\Alexander\\.nuget\\packages\\",
-        "outputPath": "D:\\Escritorio\\PracticaN3\\obj\\",
+        "outputPath": "D:\\Escritorio\\PracticaN3-main\\PracticaN3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Alexander\\AppData\\Roaming\\NuGet\\NuGet.Config"

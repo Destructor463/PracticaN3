@@ -1966,11 +1966,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "d:\\Escritorio\\PracticaN3\\Tarea3.csproj",
+      "projectUniqueName": "d:\\Escritorio\\PracticaN3-main\\PracticaN3\\Tarea3.csproj",
       "projectName": "Tarea3",
-      "projectPath": "d:\\Escritorio\\PracticaN3\\Tarea3.csproj",
+      "projectPath": "d:\\Escritorio\\PracticaN3-main\\PracticaN3\\Tarea3.csproj",
       "packagesPath": "C:\\Users\\Alexander\\.nuget\\packages\\",
-      "outputPath": "d:\\Escritorio\\PracticaN3\\obj\\",
+      "outputPath": "d:\\Escritorio\\PracticaN3-main\\PracticaN3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Alexander\\AppData\\Roaming\\NuGet\\NuGet.Config"

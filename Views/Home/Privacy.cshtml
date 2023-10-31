@@ -3,8 +3,18 @@
 }
 <h1>@ViewData["Title"]</h1>
 
+
 <p> Es una herramienta en línea que proporciona una API de simulación para desarrolladores de aplicaciones web y móviles. Ofrece una variedad de recursos, como usuarios, publicaciones y comentarios, que se pueden acceder mediante peticiones HTTP. Esto permite a los desarrolladores probar y desarrollar sus aplicaciones sin tener que depender de una API real.</p>
 
+<h2>Cómo utilizar JSONPlaceholder</h2>
+<p>Para utilizar JSONPlaceholder, simplemente envía una petición HTTP a uno de los recursos disponibles en la API. Por ejemplo, para obtener una lista de usuarios, puedes enviar una petición GET a la URL "https://jsonplaceholder.typicode.com/users". También puedes enviar peticiones POST, PUT y DELETE para agregar, actualizar y eliminar recursos, respectivamente.</p>
+
+<h3>Métodos de petición soportados</h3>
+<p>GET para obtener un recurso o un listado de todos los recursos,
+POST para crear un recurso,
+PUT para actualizar un recurso,
+PATCH para actualizar un recurso,
+DELETE para borrar un recurso</p>
 <style>
 
     body{
@@ -19,5 +29,13 @@
     h1{
         text-align: center;
         color: yellow;
+    }
+
+    h2{
+        color: green;
+    }
+
+    h3{
+        color: purple;
     }
 </style>
